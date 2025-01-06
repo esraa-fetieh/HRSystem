@@ -1,0 +1,15 @@
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.DAL\bin\Debug\net8.0\HRSystem.DAL.deps.json
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.DAL\bin\Debug\net8.0\HRSystem.DAL.runtimeconfig.json
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.DAL\bin\Debug\net8.0\HRSystem.DAL.dll
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.DAL\bin\Debug\net8.0\HRSystem.DAL.pdb
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.DAL\obj\Debug\net8.0\HRSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.DAL\obj\Debug\net8.0\HRSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.DAL\obj\Debug\net8.0\HRSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.DAL\obj\Debug\net8.0\HRSystem.DAL.AssemblyInfo.cs
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.DAL\obj\Debug\net8.0\HRSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.DAL\obj\Debug\net8.0\HRSystem.DAL.dll
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.DAL\obj\Debug\net8.0\refint\HRSystem.DAL.dll
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.DAL\obj\Debug\net8.0\HRSystem.DAL.pdb
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.DAL\obj\Debug\net8.0\HRSystem.DAL.genruntimeconfig.cache
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.DAL\obj\Debug\net8.0\ref\HRSystem.DAL.dll
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.DAL\obj\Debug\net8.0\HRSystem.DAL.sourcelink.json

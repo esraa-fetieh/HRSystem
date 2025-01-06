@@ -1,0 +1,16 @@
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.BLL\bin\Debug\net8.0\HRSystem.BLL.deps.json
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.BLL\bin\Debug\net8.0\HRSystem.BLL.dll
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.BLL\bin\Debug\net8.0\HRSystem.BLL.pdb
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.BLL\bin\Debug\net8.0\HRSystem.DAL.dll
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.BLL\bin\Debug\net8.0\HRSystem.DAL.pdb
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.BLL\obj\Debug\net8.0\HRSystem.BLL.csproj.AssemblyReference.cache
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.BLL\obj\Debug\net8.0\HRSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.BLL\obj\Debug\net8.0\HRSystem.BLL.AssemblyInfoInputs.cache
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.BLL\obj\Debug\net8.0\HRSystem.BLL.AssemblyInfo.cs
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.BLL\obj\Debug\net8.0\HRSystem.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.BLL\obj\Debug\net8.0\HRSystem.D7BA94CA.Up2Date
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.BLL\obj\Debug\net8.0\HRSystem.BLL.dll
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.BLL\obj\Debug\net8.0\refint\HRSystem.BLL.dll
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.BLL\obj\Debug\net8.0\HRSystem.BLL.pdb
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.BLL\obj\Debug\net8.0\ref\HRSystem.BLL.dll
+C:\Users\Esraa Ahmed\source\repos\HRSystem\HRSystem.BLL\obj\Debug\net8.0\HRSystem.BLL.sourcelink.json
